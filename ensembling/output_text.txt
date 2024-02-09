@@ -1,0 +1,9 @@
+la_code,la_e_code,attack,label
+LA_0039 LA_E_2834763 - A11 spoof
+LA_0014 LA_E_8877452 - A14 spoof
+LA_0040 LA_E_6828287 - A16 spoof
+LA_0022 LA_E_6977360 - A09 spoof
+LA_0031 LA_E_5932896 - A13 spoof
+LA_0030 LA_E_5849185 - - bonafide
+LA_0001 LA_E_6163791 - A09 spoof
+LA_0033 LA_E_4581379 - - bonafide
